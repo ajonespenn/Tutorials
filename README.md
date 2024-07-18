@@ -6,4 +6,4 @@ This repository stores tutorials developed by the Micro:bit
 
 The following tutorials are provided
 
- * [Roll the Die](https://makecode.microbit.org/#tutorial:github:ajonespenn/docs/tutorials/Roll_The_Die)
+ * [Roll the Die](https://makecode.microbit.org/#tutorial:github:ajonespenn/Tutorials/Roll_The_Die)
